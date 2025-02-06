@@ -440,3 +440,13 @@ footer ul li a{
         gap: 1rem;
     }
 }
+@media(max-width:500px){
+    header{
+        padding: 1rem 5rem;
+        gap: 3rem;
+    }
+    header span{
+        font-size: 2rem;
+        padding-left: 50px;
+    }
+}
