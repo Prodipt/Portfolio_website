@@ -449,4 +449,7 @@ footer ul li a{
         font-size: 2rem;
         padding-left: 50px;
     }
+    .footer ul{
+        gap: 0.6rem;
+    }
 }
